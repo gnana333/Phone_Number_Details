@@ -32,3 +32,25 @@ Make sure Python is installed. Then, install the required packages using:
 
 ```bash
 pip install phonenumbers geopy timezonefinder pytz
+
+
+# 1. Clone the repository
+git clone https://github.com/your-username/phone-number-tracker.git
+cd phone-number-tracker
+
+# 2. Ensure the folder structure:
+#    phone-number-tracker/
+#    ├── app.py
+#    ├── Images/
+#    │   ├── logo_PI6_icon.ico
+#    │   ├── logoimage.png
+#    │   ├── search.png
+#    │   ├── search png.png
+#    │   └── bottom png.png
+#    ├── images/
+#    │   └── screenshot-tracker1.jpg
+#    └── README.md
+
+# 3. Run the Python application
+python app.py
+
